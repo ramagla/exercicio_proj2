@@ -1,0 +1,42 @@
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 0 auto;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+  }
+  
+
+  form {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  label {
+    display: inline-block;
+    width: 100px;
+  }
+  
+  input {
+    width: 200px;
+  }
+  
+  button {
+    margin-left: 100px;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  button {
+    margin: 10px;
+    padding: 10px;
+   justify-content: center;
+    
+  }
+  
